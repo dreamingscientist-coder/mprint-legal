@@ -1,0 +1,15 @@
+:root { color-scheme: light dark; }
+* { box-sizing: border-box; }
+body { margin: 0; background: #fff; color: #1d1d1f; font: 16px/1.65 system-ui, -apple-system, "Segoe UI", sans-serif; }
+main { width: min(760px, calc(100% - 32px)); margin: 0 auto; padding: 24px 0 48px; }
+nav { display: flex; flex-wrap: wrap; gap: 14px; margin-bottom: 28px; font-size: .95rem; }
+h1 { margin: 0 0 .3rem; font-size: 1.9rem; line-height: 1.2; }
+h2 { margin: 1.8rem 0 .5rem; font-size: 1.2rem; }
+h3 { margin: 1.2rem 0 .35rem; font-size: 1rem; }
+a { color: #075fba; }
+.muted { color: #666; font-size: .92rem; }
+@media (prefers-color-scheme: dark) {
+  body { background: #111; color: #eee; }
+  a { color: #6ab0ff; }
+  .muted { color: #aaa; }
+}
