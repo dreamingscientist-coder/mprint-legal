@@ -1,0 +1,503 @@
+{
+  "en": {
+    "nav": {
+      "home": "Home",
+      "guide": "How to use",
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "support": "Support"
+    },
+    "navigation": "Main navigation",
+    "updated": "Last updated",
+    "pages": {
+      "privacy": {
+        "title": "Privacy Policy",
+        "intro": "<p>App: MPrint (com.khacmuoivu.mprint). Published by Vu Khac Muoi.</p>",
+        "sections": [
+          [
+            "Who we are",
+            "<p>MPrint is published by Vu Khac Muoi. For privacy questions, email <a href=\"mailto:apps.dreamingscientist@gmail.com\">apps.dreamingscientist@gmail.com</a>.</p>\n"
+          ],
+          [
+            "Data stored on your device",
+            "<p>MPrint keeps app content, settings, and progress on your device. We do not operate a cloud synchronization service for this data. Local data is normally removed when you uninstall the app, subject to backups managed by your device or store account.</p>\n\n"
+          ],
+          [
+            "Advertising",
+            "<p>MPrint uses Google AdMob and may show banner or rewarded video ads. Google may process device identifiers, IP address, approximate location, ad interactions, and diagnostics to provide, measure, limit, and protect advertising.</p><p>Where required, the app requests consent before personalized advertising is used. You can change eligible privacy choices in the app or manage the advertising identifier in device settings.</p><p>Learn more from <a href=\"https://policies.google.com/technologies/partner-sites\">Google's partner-sites information</a> and <a href=\"https://policies.google.com/privacy\">Google's Privacy Policy</a>.</p>\n\n\n"
+          ],
+          [
+            "Support messages",
+            "<p>If you email us, we receive your email address and message. We use them only to respond, diagnose the reported issue, and improve support.</p>\n"
+          ],
+          [
+            "Children",
+            "<p>The app is not directed to children under 13, and we do not knowingly collect personal information from children.</p>\n"
+          ],
+          [
+            "Your choices and rights",
+            "<p>You may ask us to access, correct, or delete personal information associated with support messages or an account. If you are in the European Economic Area, you may also contact your local data protection authority.</p>\n"
+          ],
+          [
+            "Changes",
+            "<p>We may update this policy when the app or applicable requirements change. The date above identifies the current version.</p>\n"
+          ]
+        ]
+      },
+      "terms": {
+        "title": "Terms of Use",
+        "intro": "<p>App: MPrint (com.khacmuoivu.mprint). Published by Vu Khac Muoi.</p>",
+        "sections": [
+          [
+            "Acceptance",
+            "<p>By downloading or using MPrint, you agree to these terms. If you do not agree, do not use the app.</p>\n"
+          ],
+          [
+            "License",
+            "<p>Vu Khac Muoi grants you a personal, non-exclusive, non-transferable license to use the app on devices you own or control, subject to these terms and the applicable App Store or Google Play rules. Apple's standard licensed application end user license agreement also applies to App Store downloads.</p>\n"
+          ],
+          [
+            "Acceptable use",
+            "<p>You may not copy, modify, reverse engineer, disrupt, misuse, or use the app for unlawful purposes.</p>\n"
+          ],
+          [
+            "Advertising and rewards",
+            "<p>The app may display advertising, including optional rewarded video. In-app rewards have no cash value. Third-party advertising content and destinations are controlled by the advertising provider.</p>\n\n"
+          ],
+          [
+            "No warranty",
+            "<p>The app is provided \"as is\" without warranties of any kind to the extent permitted by law. We do not guarantee uninterrupted availability or error-free operation.</p>\n"
+          ],
+          [
+            "Limitation of liability",
+            "<p>To the extent permitted by law, Vu Khac Muoi is not liable for indirect, incidental, special, or consequential damages arising from use of the app. Nothing here limits consumer rights that cannot legally be limited.</p>\n"
+          ],
+          [
+            "Changes",
+            "<p>We may update the app or these terms. The date above identifies the current version.</p>\n"
+          ],
+          [
+            "Governing law",
+            "<p>These terms are governed by the laws of France, without prejudice to mandatory consumer-protection rules in your country of residence.</p>\n"
+          ],
+          [
+            "Contact",
+            "<p><a href=\"mailto:apps.dreamingscientist@gmail.com\">apps.dreamingscientist@gmail.com</a></p>\n"
+          ]
+        ]
+      },
+      "guide": {
+        "title": "How to use MPrint",
+        "intro": "<p>A guide to scanning, printing and finishing your documents. Updated for version 1.0.2.</p>",
+        "sections": [
+          [
+            "Print calendars & paper",
+            "<p>Choose Calendar or Paper, adjust the layout, then preview and print. Add personal events from Device calendars or an ICS file. Auto sync refreshes selected device calendars; Refresh fetches recent changes.</p>"
+          ],
+          [
+            "Scan from a machine",
+            "<p>Connect to the same Wi-Fi as your eSCL / AirScan scanner. Add a discovered scanner or enter its IP address, choose the source and scan settings, then start scanning. In Document mode, orientation and paper edges are checked automatically. Small cards on a light scanner bed are cropped when detected. If detection is uncertain, the full scan is kept.</p>"
+          ],
+          [
+            "Take photos",
+            "<p>Choose Take photo, then Photo. Keep all four document edges visible. After each picture, retake it, continue with another photo, or choose Use and Done. One photo is enough; you can also capture a document with many pages.</p>"
+          ],
+          [
+            "ID / licence",
+            "<p>Choose Take photo, then ID / licence. Capture the front and back when prompted. The two sides are selected together and use the card-size preset on one A4 page. For machine scans, scan the front, use Scan more for the back, select both sides and choose the ID / licence layout in review. The card preset keeps image proportions; check the preview before printing.</p>"
+          ],
+          [
+            "Review & arrange pages",
+            "<p>Tap a page to crop, rotate or adjust it. Restore original brings back the original scan. Select the pages to export and reorder them as needed. Add more pages from the camera, scanner or local files. Use −1° / +1° directly in the page toolbar to straighten a slight tilt, up to 5° in either direction. For finer changes, open Adjust page and use the slider, then Apply.</p>"
+          ],
+          [
+            "Fit more pages on a sheet",
+            "<p>Choose PDF / print layout in review: 1, 2, 4 or 6 pages per A4 sheet, or ID / licence. Selected pages follow review order. Extra pages continue onto the next sheet. Preview the PDF before saving, sharing or printing. Word and image exports keep separate source pages.</p>"
+          ],
+          [
+            "Leave now, finish later",
+            "<p>Received scans and review edits save automatically as a draft on this device. Back or Home leaves review and keeps the draft. During a machine scan, choose Stop and save draft to keep the pages already received; wait for the scanner to stop before reloading paper. Return to Home &gt; Drafts to resume. Check page order if a two-pass scan was interrupted.</p>"
+          ],
+          [
+            "Keep or delete a draft",
+            "<p>Drafts preserve original scans, edits, page order, selection and PDF layout. They stay on this device until you delete them from Drafts. Exporting creates a finished copy and keeps the draft for further edits. Drafts are not a backup: deleting app data or uninstalling the app removes them. If saving fails, keep the document open and retry.</p>"
+          ],
+          [
+            "Recognize text & export",
+            "<p>Use Export to preview a PDF, share images, recognize text or create a Word document. Review recognized text before using it. Saved PDFs and Word files appear in Saved documents; saved recognized text appears in Saved text &amp; tables.</p>"
+          ]
+        ]
+      },
+      "home": {
+        "title": "MPrint help & information",
+        "intro": "<p>Legal and support information for MPrint, published by Vu Khac Muoi.</p>",
+        "sections": [
+          [
+            "How to use",
+            "<ul><li><a href=\"guide.html?lang=en\">How to use</a></li><li><a href=\"privacy.html?lang=en\">Privacy</a></li><li><a href=\"terms.html?lang=en\">Terms</a></li><li><a href=\"support.html?lang=en\">Support</a></li></ul>"
+          ],
+          [
+            "What’s new in 1.0.2",
+            "<ul><li>Scan ID cards and driving licences, with both sides on one A4 page.</li><li>Improved automatic cropping for small cards scanned on a machine.</li><li>Simpler photo capture: take one or more pictures, then finish.</li><li>Fit 1, 2, 4 or 6 document pages on each sheet.</li><li>Automatically save unfinished documents and resume them from Drafts.</li><li>Straighten pages with −1° / +1° toolbar controls.</li><li>Updated help in English, French and Vietnamese.</li></ul>"
+          ]
+        ]
+      },
+      "support": {
+        "title": "Contact & Support",
+        "intro": "<p>For help with <strong>MPrint</strong>, email <a href=\"mailto:apps.dreamingscientist@gmail.com\">apps.dreamingscientist@gmail.com</a>. Please include your device model, operating-system version, app version and a short description of the problem.</p>",
+        "sections": [
+          [
+            "How do I scan, arrange pages or resume a draft?",
+            "<p>Read the <a href=\"guide.html?lang=en\">How to use guide</a> for camera and machine scans, two-sided ID cards, page layouts and automatic drafts.</p>"
+          ],
+          [
+            "How do rewarded ads work?",
+            "<p>Rewarded videos are optional. If a reward does not appear after a completed video, restart the app and try again. Contact support if the issue continues.</p>"
+          ],
+          [
+            "Where is my app data stored?",
+            "<p>App content, settings and progress are stored on your device. We do not provide cloud synchronization for this data. Unfinished scans are available from Home > Drafts and remain until you delete them.</p>"
+          ],
+          [
+            "How do I remove local data?",
+            "<p>Delete an unfinished document from Drafts, or use Settings > Delete my app data to remove app content. Uninstalling the app normally removes local data; you may also need to remove device-managed backups. Files exported elsewhere remain there.</p>"
+          ]
+        ]
+      }
+    }
+  },
+  "fr": {
+    "nav": {
+      "home": "Accueil",
+      "guide": "Mode d’emploi",
+      "privacy": "Confidentialité",
+      "terms": "Conditions",
+      "support": "Assistance"
+    },
+    "navigation": "Navigation principale",
+    "updated": "Dernière mise à jour",
+    "pages": {
+      "privacy": {
+        "title": "Politique de confidentialité",
+        "intro": "<p>Application : MPrint (com.khacmuoivu.mprint). Éditée par Vu Khac Muoi.</p>",
+        "sections": [
+          [
+            "Qui sommes-nous ?",
+            "<p>MPrint est éditée par Vu Khac Muoi. Pour toute question relative à la confidentialité, écrivez à <a href=\"mailto:apps.dreamingscientist@gmail.com\">apps.dreamingscientist@gmail.com</a>.</p>"
+          ],
+          [
+            "Données conservées sur votre appareil",
+            "<p>MPrint conserve le contenu de l’application, les réglages et la progression sur votre appareil. Nous ne proposons pas de service de synchronisation dans le cloud pour ces données. Les données locales sont normalement supprimées lors de la désinstallation, sous réserve des sauvegardes gérées par votre appareil ou votre compte de boutique.</p>"
+          ],
+          [
+            "Publicité",
+            "<p>MPrint utilise Google AdMob et peut afficher des bannières ou des vidéos publicitaires avec récompense. Google peut traiter les identifiants de l’appareil, l’adresse IP, la localisation approximative, les interactions publicitaires et les diagnostics afin de fournir, mesurer, limiter et protéger la publicité.</p><p>Lorsque cela est requis, l’application demande votre consentement avant d’utiliser de la publicité personnalisée. Vous pouvez modifier les choix de confidentialité disponibles dans l’application ou gérer l’identifiant publicitaire dans les réglages de l’appareil.</p><p>Pour en savoir plus, consultez les <a href=\"https://policies.google.com/technologies/partner-sites\">informations Google sur les sites partenaires</a> et la <a href=\"https://policies.google.com/privacy\">politique de confidentialité de Google</a>.</p>"
+          ],
+          [
+            "Messages à l’assistance",
+            "<p>Si vous nous écrivez, nous recevons votre adresse e-mail et votre message. Nous les utilisons uniquement pour répondre, diagnostiquer le problème signalé et améliorer l’assistance.</p>"
+          ],
+          [
+            "Enfants",
+            "<p>L’application ne s’adresse pas aux enfants de moins de 13 ans et nous ne recueillons pas sciemment de données personnelles auprès d’enfants.</p>"
+          ],
+          [
+            "Vos choix et vos droits",
+            "<p>Vous pouvez nous demander l’accès, la rectification ou la suppression des données personnelles associées aux messages d’assistance ou à un compte. Si vous résidez dans l’Espace économique européen, vous pouvez également contacter votre autorité locale de protection des données.</p>"
+          ],
+          [
+            "Modifications",
+            "<p>Nous pouvons mettre à jour cette politique lorsque l’application ou les exigences applicables évoluent. La date indiquée identifie la version actuelle.</p>"
+          ]
+        ]
+      },
+      "terms": {
+        "title": "Conditions d’utilisation",
+        "intro": "<p>Application : MPrint (com.khacmuoivu.mprint). Éditée par Vu Khac Muoi.</p>",
+        "sections": [
+          [
+            "Acceptation",
+            "<p>En téléchargeant ou en utilisant MPrint, vous acceptez ces conditions. Si vous ne les acceptez pas, n’utilisez pas l’application.</p>"
+          ],
+          [
+            "Licence",
+            "<p>Vu Khac Muoi vous accorde une licence personnelle, non exclusive et non transférable pour utiliser l’application sur les appareils que vous possédez ou contrôlez, sous réserve des présentes conditions et des règles applicables de l’App Store ou de Google Play. Le contrat de licence utilisateur final standard d’Apple s’applique également aux téléchargements depuis l’App Store.</p>"
+          ],
+          [
+            "Utilisation acceptable",
+            "<p>Vous ne devez pas copier, modifier, effectuer de l’ingénierie inverse, perturber, détourner ou utiliser l’application à des fins illicites.</p>"
+          ],
+          [
+            "Publicité et récompenses",
+            "<p>L’application peut afficher de la publicité, notamment des vidéos facultatives avec récompense. Les récompenses dans l’application n’ont aucune valeur monétaire. Le contenu et les destinations des publicités tierces sont contrôlés par le fournisseur publicitaire.</p>"
+          ],
+          [
+            "Absence de garantie",
+            "<p>L’application est fournie « en l’état », sans garantie d’aucune sorte, dans la mesure permise par la loi. Nous ne garantissons ni une disponibilité ininterrompue ni un fonctionnement sans erreur.</p>"
+          ],
+          [
+            "Limitation de responsabilité",
+            "<p>Dans la mesure permise par la loi, Vu Khac Muoi n’est pas responsable des dommages indirects, accessoires, spéciaux ou consécutifs découlant de l’utilisation de l’application. Aucune disposition ne limite les droits des consommateurs qui ne peuvent être légalement limités.</p>"
+          ],
+          [
+            "Modifications",
+            "<p>Nous pouvons mettre à jour l’application ou ces conditions. La date indiquée identifie la version actuelle.</p>"
+          ],
+          [
+            "Droit applicable",
+            "<p>Ces conditions sont régies par le droit français, sans préjudice des règles impératives de protection des consommateurs dans votre pays de résidence.</p>"
+          ],
+          [
+            "Contact",
+            "<p><a href=\"mailto:apps.dreamingscientist@gmail.com\">apps.dreamingscientist@gmail.com</a></p>"
+          ]
+        ]
+      },
+      "guide": {
+        "title": "Utiliser MPrint",
+        "intro": "<p>Un guide pour numériser, imprimer et finaliser vos documents. À jour pour la version 1.0.2.</p>",
+        "sections": [
+          [
+            "Imprimer des calendriers et du papier",
+            "<p>Choisissez Calendrier ou Papier, ajustez la mise en page, puis prévisualisez et imprimez. Ajoutez vos événements depuis les calendriers de l’appareil ou un fichier ICS. La synchronisation automatique actualise les calendriers sélectionnés ; Actualiser récupère les dernières modifications.</p>"
+          ],
+          [
+            "Numériser avec un scanner",
+            "<p>Connectez-vous au même Wi-Fi que votre scanner eSCL / AirScan. Ajoutez un scanner détecté ou saisissez son adresse IP, choisissez la source et les réglages, puis lancez la numérisation. En mode Document, l’orientation et les bords sont vérifiés automatiquement. Les petites cartes sur un fond clair sont recadrées lorsqu’elles sont détectées. En cas de doute, la numérisation complète est conservée.</p>"
+          ],
+          [
+            "Prendre des photos",
+            "<p>Choisissez Prendre une photo, puis Photo. Gardez les quatre bords du document visibles. Après chaque prise, recommencez, ajoutez une autre photo ou choisissez Utiliser et terminer. Une seule photo suffit ; vous pouvez aussi photographier plusieurs pages.</p>"
+          ],
+          [
+            "Identité / permis",
+            "<p>Choisissez Prendre une photo, puis Identité / permis. Photographiez le recto et le verso lorsque demandé. Les deux faces sont sélectionnées et placées au format carte sur une page A4. Avec un scanner, numérisez le recto, utilisez Numériser plus pour le verso, sélectionnez les deux faces et choisissez la mise en page Identité / permis. Le format carte conserve les proportions ; vérifiez l’aperçu avant d’imprimer.</p>"
+          ],
+          [
+            "Vérifier et organiser les pages",
+            "<p>Touchez une page pour la recadrer, la faire pivoter ou la retoucher. Restaurer l’original rétablit la numérisation initiale. Sélectionnez les pages à exporter et réorganisez-les. Ajoutez des pages depuis l’appareil photo, le scanner ou des fichiers locaux. Utilisez −1° / +1° directement dans la barre d’outils de la page pour corriger une légère inclinaison, jusqu’à 5° dans chaque sens. Pour un réglage plus fin, ouvrez Ajuster la page, utilisez le curseur, puis Appliquer.</p>"
+          ],
+          [
+            "Placer plusieurs pages sur une feuille",
+            "<p>Choisissez Mise en page PDF / impression : 1, 2, 4 ou 6 pages par feuille A4, ou Identité / permis. Les pages sélectionnées suivent l’ordre de révision. Les pages restantes continuent sur la feuille suivante. Vérifiez le PDF avant de l’enregistrer, le partager ou l’imprimer. Les exports Word et images conservent les pages sources séparées.</p>"
+          ],
+          [
+            "Quitter maintenant, terminer plus tard",
+            "<p>Les pages reçues et les retouches sont automatiquement enregistrées comme brouillon sur cet appareil. Retour ou Accueil quitte la révision en conservant le brouillon. Pendant une numérisation, choisissez Arrêter et garder le brouillon pour conserver les pages reçues ; attendez l’arrêt du scanner avant de recharger du papier. Revenez dans Accueil &gt; Brouillons pour reprendre. Vérifiez l’ordre des pages si une numérisation en deux passages a été interrompue.</p>"
+          ],
+          [
+            "Conserver ou supprimer un brouillon",
+            "<p>Les brouillons conservent les originaux, les retouches, l’ordre, la sélection et la mise en page PDF. Ils restent sur cet appareil jusqu’à leur suppression dans Brouillons. Un export crée une copie finale et conserve le brouillon. Les brouillons ne sont pas une sauvegarde : effacer les données ou désinstaller l’application les supprime. Si l’enregistrement échoue, gardez le document ouvert et réessayez.</p>"
+          ],
+          [
+            "Reconnaître le texte et exporter",
+            "<p>Utilisez Exporter pour prévisualiser un PDF, partager des images, reconnaître du texte ou créer un document Word. Vérifiez le texte reconnu avant de l’utiliser. Les PDF et fichiers Word enregistrés sont dans Documents enregistrés ; le texte reconnu enregistré est dans Textes et tableaux enregistrés.</p>"
+          ]
+        ]
+      },
+      "home": {
+        "title": "MPrint : aide et informations",
+        "intro": "<p>Informations juridiques et assistance pour MPrint, éditée par Vu Khac Muoi.</p>",
+        "sections": [
+          [
+            "Mode d’emploi",
+            "<ul><li><a href=\"guide.html?lang=fr\">Mode d’emploi</a></li><li><a href=\"privacy.html?lang=fr\">Confidentialité</a></li><li><a href=\"terms.html?lang=fr\">Conditions</a></li><li><a href=\"support.html?lang=fr\">Assistance</a></li></ul>"
+          ],
+          [
+            "Nouveautés de la version 1.0.2",
+            "<ul><li>Cartes d’identité et permis : recto et verso sur une page A4.</li><li>Recadrage automatique amélioré pour les petites cartes numérisées au scanner.</li><li>Prise de photos simplifiée, pour une ou plusieurs images.</li><li>Placez 1, 2, 4 ou 6 pages de document par feuille.</li><li>Enregistrement automatique des documents inachevés, à reprendre dans Brouillons.</li><li>Correction de l’inclinaison avec les boutons −1° / +1°.</li><li>Aide actualisée en anglais, français et vietnamien.</li></ul>"
+          ]
+        ]
+      },
+      "support": {
+        "title": "Contact et assistance",
+        "intro": "<p>Pour obtenir de l’aide avec <strong>MPrint</strong>, écrivez à <a href=\"mailto:apps.dreamingscientist@gmail.com\">apps.dreamingscientist@gmail.com</a>. Indiquez le modèle de l’appareil, la version du système, la version de l’application et une courte description du problème.</p>",
+        "sections": [
+          [
+            "Comment numériser, organiser les pages ou reprendre un brouillon ?",
+            "<p>Consultez le <a href=\"guide.html?lang=fr\">mode d’emploi</a> pour les photos, les scanners, les cartes recto verso, la mise en page et les brouillons automatiques.</p>"
+          ],
+          [
+            "Comment fonctionnent les publicités avec récompense ?",
+            "<p>Les vidéos avec récompense sont facultatives. Si la récompense n’apparaît pas après une vidéo complète, redémarrez l’application et réessayez. Contactez l’assistance si le problème persiste.</p>"
+          ],
+          [
+            "Où sont conservées mes données ?",
+            "<p>Le contenu, les réglages et la progression sont conservés sur votre appareil. Nous ne proposons pas de synchronisation dans le cloud. Les numérisations inachevées sont dans Accueil > Brouillons et restent jusqu’à leur suppression.</p>"
+          ],
+          [
+            "Comment supprimer les données locales ?",
+            "<p>Supprimez un document inachevé dans Brouillons, ou utilisez Paramètres > Supprimer mes données pour effacer le contenu de l’application. La désinstallation supprime normalement les données locales ; vous devrez peut-être également supprimer les sauvegardes gérées par l’appareil. Les fichiers exportés ailleurs sont conservés.</p>"
+          ]
+        ]
+      }
+    }
+  },
+  "vi": {
+    "nav": {
+      "home": "Trang chủ",
+      "guide": "Cách sử dụng",
+      "privacy": "Quyền riêng tư",
+      "terms": "Điều khoản",
+      "support": "Hỗ trợ"
+    },
+    "navigation": "Điều hướng chính",
+    "updated": "Cập nhật lần cuối",
+    "pages": {
+      "privacy": {
+        "title": "Chính sách quyền riêng tư",
+        "intro": "<p>Ứng dụng: MPrint (com.khacmuoivu.mprint). Nhà phát hành: Vu Khac Muoi.</p>",
+        "sections": [
+          [
+            "Chúng tôi là ai?",
+            "<p>MPrint do Vu Khac Muoi phát hành. Nếu có câu hỏi về quyền riêng tư, hãy gửi email đến <a href=\"mailto:apps.dreamingscientist@gmail.com\">apps.dreamingscientist@gmail.com</a>.</p>"
+          ],
+          [
+            "Dữ liệu lưu trên thiết bị",
+            "<p>MPrint lưu nội dung ứng dụng, cài đặt và tiến trình trên thiết bị của bạn. Chúng tôi không vận hành dịch vụ đồng bộ đám mây cho dữ liệu này. Dữ liệu cục bộ thường được xóa khi bạn gỡ ứng dụng, tùy thuộc vào bản sao lưu do thiết bị hoặc tài khoản cửa hàng của bạn quản lý.</p>"
+          ],
+          [
+            "Quảng cáo",
+            "<p>MPrint sử dụng Google AdMob và có thể hiển thị quảng cáo biểu ngữ hoặc video có thưởng. Google có thể xử lý mã định danh thiết bị, địa chỉ IP, vị trí gần đúng, tương tác quảng cáo và dữ liệu chẩn đoán để cung cấp, đo lường, giới hạn và bảo vệ hoạt động quảng cáo.</p><p>Khi được yêu cầu, ứng dụng xin sự đồng ý trước khi sử dụng quảng cáo cá nhân hóa. Bạn có thể thay đổi các lựa chọn quyền riêng tư có sẵn trong ứng dụng hoặc quản lý mã định danh quảng cáo trong cài đặt thiết bị.</p><p>Tìm hiểu thêm tại <a href=\"https://policies.google.com/technologies/partner-sites\">thông tin Google dành cho trang đối tác</a> và <a href=\"https://policies.google.com/privacy\">Chính sách quyền riêng tư của Google</a>.</p>"
+          ],
+          [
+            "Tin nhắn hỗ trợ",
+            "<p>Nếu bạn gửi email, chúng tôi nhận được địa chỉ email và nội dung tin nhắn của bạn. Chúng tôi chỉ sử dụng chúng để trả lời, chẩn đoán vấn đề được báo cáo và cải thiện hỗ trợ.</p>"
+          ],
+          [
+            "Trẻ em",
+            "<p>Ứng dụng không hướng đến trẻ dưới 13 tuổi và chúng tôi không cố ý thu thập thông tin cá nhân của trẻ em.</p>"
+          ],
+          [
+            "Lựa chọn và quyền của bạn",
+            "<p>Bạn có thể yêu cầu chúng tôi truy cập, sửa hoặc xóa thông tin cá nhân liên quan đến tin nhắn hỗ trợ hoặc tài khoản. Nếu ở Khu vực Kinh tế Châu Âu, bạn cũng có thể liên hệ cơ quan bảo vệ dữ liệu địa phương.</p>"
+          ],
+          [
+            "Thay đổi",
+            "<p>Chúng tôi có thể cập nhật chính sách này khi ứng dụng hoặc các yêu cầu áp dụng thay đổi. Ngày ghi trên trang xác định phiên bản hiện tại.</p>"
+          ]
+        ]
+      },
+      "terms": {
+        "title": "Điều khoản sử dụng",
+        "intro": "<p>Ứng dụng: MPrint (com.khacmuoivu.mprint). Nhà phát hành: Vu Khac Muoi.</p>",
+        "sections": [
+          [
+            "Chấp nhận",
+            "<p>Bằng việc tải xuống hoặc sử dụng MPrint, bạn đồng ý với các điều khoản này. Nếu không đồng ý, vui lòng không sử dụng ứng dụng.</p>"
+          ],
+          [
+            "Giấy phép",
+            "<p>Vu Khac Muoi cấp cho bạn giấy phép cá nhân, không độc quyền và không thể chuyển nhượng để sử dụng ứng dụng trên các thiết bị bạn sở hữu hoặc kiểm soát, theo các điều khoản này và quy định áp dụng của App Store hoặc Google Play. Thỏa thuận cấp phép ứng dụng tiêu chuẩn cho người dùng cuối của Apple cũng áp dụng cho bản tải từ App Store.</p>"
+          ],
+          [
+            "Sử dụng được chấp nhận",
+            "<p>Bạn không được sao chép, sửa đổi, dịch ngược, gây gián đoạn, sử dụng sai mục đích hoặc sử dụng ứng dụng cho mục đích bất hợp pháp.</p>"
+          ],
+          [
+            "Quảng cáo và phần thưởng",
+            "<p>Ứng dụng có thể hiển thị quảng cáo, bao gồm video có thưởng tùy chọn. Phần thưởng trong ứng dụng không có giá trị tiền mặt. Nội dung và trang đích quảng cáo của bên thứ ba do nhà cung cấp quảng cáo kiểm soát.</p>"
+          ],
+          [
+            "Không bảo đảm",
+            "<p>Ứng dụng được cung cấp “nguyên trạng”, không có bất kỳ bảo đảm nào trong phạm vi pháp luật cho phép. Chúng tôi không bảo đảm ứng dụng luôn sẵn có hoặc hoạt động không có lỗi.</p>"
+          ],
+          [
+            "Giới hạn trách nhiệm",
+            "<p>Trong phạm vi pháp luật cho phép, Vu Khac Muoi không chịu trách nhiệm về thiệt hại gián tiếp, ngẫu nhiên, đặc biệt hoặc hệ quả phát sinh từ việc sử dụng ứng dụng. Không nội dung nào ở đây giới hạn các quyền của người tiêu dùng mà pháp luật không cho phép giới hạn.</p>"
+          ],
+          [
+            "Thay đổi",
+            "<p>Chúng tôi có thể cập nhật ứng dụng hoặc các điều khoản này. Ngày ghi trên trang xác định phiên bản hiện tại.</p>"
+          ],
+          [
+            "Luật điều chỉnh",
+            "<p>Các điều khoản này chịu sự điều chỉnh của pháp luật Pháp, không ảnh hưởng đến các quy định bắt buộc về bảo vệ người tiêu dùng tại quốc gia bạn cư trú.</p>"
+          ],
+          [
+            "Liên hệ",
+            "<p><a href=\"mailto:apps.dreamingscientist@gmail.com\">apps.dreamingscientist@gmail.com</a></p>"
+          ]
+        ]
+      },
+      "guide": {
+        "title": "Cách sử dụng MPrint",
+        "intro": "<p>Hướng dẫn quét, in và hoàn thành tài liệu. Cập nhật cho phiên bản 1.0.2.</p>",
+        "sections": [
+          [
+            "In lịch và giấy",
+            "<p>Chọn Lịch hoặc Giấy, chỉnh bố cục, rồi xem trước và in. Thêm sự kiện cá nhân từ lịch trên thiết bị hoặc tệp ICS. Tự động đồng bộ cập nhật các lịch đã chọn; Làm mới lấy các thay đổi gần đây.</p>"
+          ],
+          [
+            "Quét từ máy quét",
+            "<p>Kết nối cùng Wi-Fi với máy quét eSCL / AirScan. Thêm máy được tìm thấy hoặc nhập địa chỉ IP, chọn nguồn giấy và thiết lập, rồi bắt đầu quét. Ở chế độ Tài liệu, ứng dụng tự kiểm tra hướng và cạnh giấy. Thẻ nhỏ trên nền máy quét sáng sẽ được cắt khi nhận diện được. Nếu không chắc chắn, ứng dụng giữ nguyên toàn bộ bản quét.</p>"
+          ],
+          [
+            "Chụp ảnh",
+            "<p>Chọn Chụp ảnh, rồi chọn Ảnh. Giữ rõ cả bốn cạnh tài liệu. Sau mỗi lần chụp, có thể chụp lại, chụp thêm ảnh hoặc chọn Dùng và xong. Có thể chỉ chụp một ảnh hoặc chụp tài liệu nhiều trang.</p>"
+          ],
+          [
+            "CCCD / bằng lái",
+            "<p>Chọn Chụp ảnh, rồi CCCD / bằng lái. Chụp mặt trước và mặt sau theo hướng dẫn. Hai mặt được chọn cùng nhau và dùng kích thước thẻ có sẵn trên một trang A4. Nếu dùng máy quét, quét mặt trước, dùng Quét thêm để quét mặt sau, chọn cả hai mặt rồi chọn bố cục CCCD / bằng lái. Kích thước thẻ giữ nguyên tỷ lệ ảnh; kiểm tra bản xem trước trước khi in.</p>"
+          ],
+          [
+            "Xem lại và sắp xếp trang",
+            "<p>Chạm vào trang để cắt, xoay hoặc điều chỉnh. Khôi phục bản gốc đưa trang về bản quét ban đầu. Chọn các trang cần xuất và sắp xếp lại nếu cần. Thêm trang từ máy ảnh, máy quét hoặc tệp trên thiết bị. Dùng −1° / +1° ngay trên thanh công cụ trang để chỉnh độ nghiêng nhẹ, tối đa 5° theo mỗi hướng. Để chỉnh nhỏ hơn, mở Điều chỉnh trang, dùng thanh trượt rồi chọn Áp dụng.</p>"
+          ],
+          [
+            "Ghép nhiều trang trên một tờ",
+            "<p>Chọn Bố cục PDF / in khi xem lại: 1, 2, 4 hoặc 6 trang trên mỗi tờ A4, hoặc CCCD / bằng lái. Các trang đã chọn theo thứ tự xem lại. Trang dư chuyển sang tờ tiếp theo. Xem trước PDF trước khi lưu, chia sẻ hoặc in. Khi xuất Word và ảnh, các trang nguồn vẫn riêng biệt.</p>"
+          ],
+          [
+            "Rời đi và hoàn thành sau",
+            "<p>Các trang đã nhận và thay đổi khi xem lại tự động được lưu thành bản nháp trên thiết bị. Quay lại hoặc Trang chủ sẽ rời màn hình xem lại và giữ bản nháp. Khi máy đang quét, chọn Dừng và lưu nháp để giữ các trang đã nhận; chờ máy dừng trước khi nạp lại giấy. Vào Trang chủ &gt; Bản nháp để tiếp tục. Kiểm tra thứ tự trang nếu lượt quét hai lần bị gián đoạn.</p>"
+          ],
+          [
+            "Giữ hoặc xóa bản nháp",
+            "<p>Bản nháp giữ bản quét gốc, chỉnh sửa, thứ tự trang, lựa chọn và bố cục PDF. Bản nháp ở trên thiết bị cho đến khi bạn xóa trong Bản nháp. Xuất tài liệu tạo bản hoàn chỉnh và vẫn giữ bản nháp để sửa tiếp. Bản nháp không thay thế sao lưu: xóa dữ liệu hoặc gỡ ứng dụng sẽ xóa bản nháp. Nếu lưu lỗi, giữ tài liệu mở và thử lại.</p>"
+          ],
+          [
+            "Nhận dạng chữ và xuất",
+            "<p>Dùng Xuất để xem trước PDF, chia sẻ ảnh, nhận dạng chữ hoặc tạo tài liệu Word. Kiểm tra chữ đã nhận dạng trước khi sử dụng. PDF và Word đã lưu nằm trong Tài liệu đã lưu; chữ nhận dạng đã lưu nằm trong Văn bản và bảng đã lưu.</p>"
+          ]
+        ]
+      },
+      "home": {
+        "title": "MPrint: hướng dẫn và thông tin",
+        "intro": "<p>Thông tin pháp lý và hỗ trợ cho MPrint, do Vu Khac Muoi phát hành.</p>",
+        "sections": [
+          [
+            "Cách sử dụng",
+            "<ul><li><a href=\"guide.html?lang=vi\">Cách sử dụng</a></li><li><a href=\"privacy.html?lang=vi\">Quyền riêng tư</a></li><li><a href=\"terms.html?lang=vi\">Điều khoản</a></li><li><a href=\"support.html?lang=vi\">Hỗ trợ</a></li></ul>"
+          ],
+          [
+            "Điểm mới trong phiên bản 1.0.2",
+            "<ul><li>Quét CCCD và bằng lái, ghép hai mặt trên một trang A4.</li><li>Cải thiện tự động cắt thẻ nhỏ khi quét từ máy.</li><li>Chụp ảnh đơn giản hơn: chụp một hoặc nhiều ảnh rồi hoàn tất.</li><li>Ghép 1, 2, 4 hoặc 6 trang tài liệu trên mỗi tờ giấy.</li><li>Tự động lưu tài liệu dang dở và tiếp tục từ Bản nháp.</li><li>Chỉnh nghiêng bằng nút −1° / +1° ngay trên thanh công cụ.</li><li>Cập nhật hướng dẫn bằng tiếng Anh, Pháp và Việt.</li></ul>"
+          ]
+        ]
+      },
+      "support": {
+        "title": "Liên hệ và hỗ trợ",
+        "intro": "<p>Để được trợ giúp về <strong>MPrint</strong>, gửi email đến <a href=\"mailto:apps.dreamingscientist@gmail.com\">apps.dreamingscientist@gmail.com</a>. Vui lòng cung cấp mẫu thiết bị, phiên bản hệ điều hành, phiên bản ứng dụng và mô tả ngắn về vấn đề.</p>",
+        "sections": [
+          [
+            "Làm sao để quét, sắp xếp trang hoặc tiếp tục bản nháp?",
+            "<p>Đọc <a href=\"guide.html?lang=vi\">hướng dẫn sử dụng</a> về chụp ảnh, quét từ máy, thẻ hai mặt, bố cục trang và tự động lưu nháp.</p>"
+          ],
+          [
+            "Quảng cáo có thưởng hoạt động thế nào?",
+            "<p>Video có thưởng là tùy chọn. Nếu phần thưởng không xuất hiện sau khi xem hết video, hãy khởi động lại ứng dụng và thử lại. Liên hệ hỗ trợ nếu vấn đề tiếp diễn.</p>"
+          ],
+          [
+            "Dữ liệu ứng dụng được lưu ở đâu?",
+            "<p>Nội dung, cài đặt và tiến trình được lưu trên thiết bị của bạn. Chúng tôi không cung cấp đồng bộ đám mây. Bản quét dang dở nằm trong Trang chủ > Bản nháp và được giữ cho đến khi bạn xóa.</p>"
+          ],
+          [
+            "Làm sao để xóa dữ liệu cục bộ?",
+            "<p>Xóa tài liệu dang dở trong Bản nháp, hoặc dùng Cài đặt > Xóa dữ liệu ứng dụng để xóa nội dung ứng dụng. Gỡ ứng dụng thường xóa dữ liệu cục bộ; bạn cũng có thể cần xóa các bản sao lưu do thiết bị quản lý. Tệp đã xuất ra nơi khác vẫn được giữ.</p>"
+          ]
+        ]
+      }
+    }
+  }
+}
