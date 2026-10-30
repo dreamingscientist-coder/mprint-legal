@@ -20,7 +20,7 @@ def build():
 <nav aria-label="{escape(data['navigation'])}">{nav}</nav>
 <header><p class="eyebrow">MPrint</p><h1>{escape(content['title'])}</h1>{content['intro']}</header>
 {body}
-<footer><p>{escape(data['updated'])}: <time datetime="2026-10-16">2026-10-16</time></p><p>© Vu Khac Muoi · <a href="mailto:apps.dreamingscientist@gmail.com">apps.dreamingscientist@gmail.com</a></p></footer>
+<footer><p>{escape(data['updated'])}: <time datetime="2026-10-30">2026-10-30</time></p><p>© Vu Khac Muoi · <a href="mailto:apps.dreamingscientist@gmail.com">apps.dreamingscientist@gmail.com</a></p></footer>
 </section>''')
         html = f'''<!doctype html>
 <html lang="en" class="no-js"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">

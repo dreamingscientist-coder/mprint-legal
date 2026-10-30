@@ -29,8 +29,11 @@ for key in data['en']['pages']:
 old=subprocess.check_output(['git','show','6482317:terms.html'],cwd=root,text=True)
 for _,body in data['en']['pages']['terms']['sections']: assert body in old
 privacy='\n'.join(body for _,body in data['en']['pages']['privacy']['sections'])
-for expected in ('Google AdMob', 'User Messaging Platform (UMP)',
-                 'App Tracking Transparency (ATT)', 'Google Analytics for Firebase',
+for expected in ('App Tracking Transparency',
+                 'does not access IDFA for tracking',
+                 'eligible non-personalized or limited ads',
+                 'frequency capping and aggregated reporting',
+                 'Google Analytics for Firebase',
                  'IDFV collection are disabled'):
     assert expected in privacy, f'missing privacy disclosure: {expected}'
 print('Validated 5 pages, 3 language panels per page, internal links and original English legal clauses.')
