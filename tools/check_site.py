@@ -24,8 +24,13 @@ for file in root.glob('*.html'):
 data=json.loads((root/'content.json').read_text())
 for key in data['en']['pages']:
     assert len({len(data[l]['pages'][key]['sections']) for l in data})==1, key
-# Ensure English legal clauses remain verbatim, not rewritten by the redesign.
-for file,key in [('privacy.html','privacy'),('terms.html','terms')]:
-    old=subprocess.check_output(['git','show',f'6482317:{file}'],cwd=root,text=True)
-    for _,body in data['en']['pages'][key]['sections']: assert body in old
+# Keep existing English terms verbatim. The privacy policy is maintained from
+# content.json and may be revised to reflect current SDK behavior.
+old=subprocess.check_output(['git','show','6482317:terms.html'],cwd=root,text=True)
+for _,body in data['en']['pages']['terms']['sections']: assert body in old
+privacy='\n'.join(body for _,body in data['en']['pages']['privacy']['sections'])
+for expected in ('Google AdMob', 'User Messaging Platform (UMP)',
+                 'App Tracking Transparency (ATT)', 'Google Analytics for Firebase',
+                 'IDFV collection are disabled'):
+    assert expected in privacy, f'missing privacy disclosure: {expected}'
 print('Validated 5 pages, 3 language panels per page, internal links and original English legal clauses.')
