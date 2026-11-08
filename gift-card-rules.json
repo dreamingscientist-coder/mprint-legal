@@ -1,13 +1,207 @@
 {
   "schemaVersion": 1,
-  "rulesVersion": 2,
+  "rulesVersion": 4,
   "templates": {
-    "super-u": {"merchant": "Super U", "aliases": ["Super U", "Magasins U", "Magasin U", "U carte cadeau"], "fields": {}},
-    "auchan": {"merchant": "Auchan", "aliases": ["Auchan", "auchan.fr"], "fields": {}},
-    "carrefour": {"merchant": "Carrefour", "aliases": ["Carrefour", "carte-cadeau.carrefour"], "fields": {}},
-    "intermarche": {"merchant": "Intermarché", "aliases": ["Intermarché", "Intermarche", "intermarche.com"], "fields": {}},
-    "kiabi": {"merchant": "Kiabi", "aliases": ["Kiabi", "kiabi.com"], "fields": {}},
-    "gemo": {"merchant": "Gémo", "aliases": ["Gémo", "Gemo", "gemo.fr"], "fields": {}},
-    "jardiland": {"merchant": "Jardiland", "aliases": ["Jardiland", "jardiland.com"], "fields": {}}
+    "super-u": {
+      "merchant": "Super U",
+      "aliases": [
+        "Super U",
+        "Magasins U",
+        "Magasin U",
+        "U carte cadeau"
+      ],
+      "fields": {
+        "amount": [
+          "Solde disponible",
+          "Solde restant",
+          "Montant restant",
+          "Solde"
+        ],
+        "expiry": [
+          "Date expiration",
+          "Date d expiration",
+          "Utiliser avant",
+          "Avant le"
+        ],
+        "cardNumber": [
+          "Numéro de carte",
+          "Numero de carte",
+          "N° de carte"
+        ],
+        "pin": [
+          "Code PIN",
+          "PIN"
+        ]
+      }
+    },
+    "auchan": {
+      "merchant": "Auchan",
+      "aliases": [
+        "Auchan",
+        "auchan.fr",
+        "Carte Bon plan",
+        "Bon plan",
+        "Auchan Carte Bon plan"
+      ],
+      "fields": {
+        "amount": [
+          "Solde disponible",
+          "Solde restant",
+          "Montant restant"
+        ],
+        "expiry": [
+          "Date expiration",
+          "Date d expiration"
+        ],
+        "cardNumber": [
+          "Numéro de carte",
+          "Numero de carte"
+        ],
+        "pin": [
+          "Code PIN"
+        ]
+      }
+    },
+    "carrefour": {
+      "merchant": "Carrefour",
+      "aliases": [
+        "Carrefour",
+        "carte-cadeau.carrefour"
+      ],
+      "fields": {
+        "amount": [
+          "Solde disponible",
+          "Solde restant",
+          "Montant restant",
+          "Solde"
+        ],
+        "expiry": [
+          "Date expiration",
+          "Date d expiration",
+          "Validité"
+        ],
+        "cardNumber": [
+          "Numéro de carte",
+          "Numero de carte"
+        ],
+        "pin": [
+          "Code PIN",
+          "PIN"
+        ]
+      }
+    },
+    "intermarche": {
+      "merchant": "Intermarché",
+      "aliases": [
+        "Intermarché",
+        "Intermarche",
+        "intermarche.com"
+      ],
+      "fields": {
+        "amount": [
+          "Solde disponible",
+          "Solde restant",
+          "Montant restant",
+          "Solde"
+        ],
+        "expiry": [
+          "Date expiration",
+          "Utiliser avant"
+        ],
+        "cardNumber": [
+          "Numéro de carte",
+          "N° de carte"
+        ],
+        "pin": [
+          "Code PIN",
+          "PIN"
+        ]
+      }
+    },
+    "kiabi": {
+      "merchant": "Kiabi",
+      "aliases": [
+        "Kiabi",
+        "kiabi.com"
+      ],
+      "fields": {
+        "amount": [
+          "Solde disponible",
+          "Solde restant",
+          "Montant restant",
+          "Solde"
+        ],
+        "expiry": [
+          "Date expiration",
+          "Date d expiration",
+          "Utiliser avant"
+        ],
+        "cardNumber": [
+          "Numéro de carte",
+          "N° de carte"
+        ],
+        "pin": [
+          "Code PIN",
+          "PIN"
+        ]
+      }
+    },
+    "gemo": {
+      "merchant": "Gémo",
+      "aliases": [
+        "Gémo",
+        "Gemo",
+        "gemo.fr"
+      ],
+      "fields": {
+        "amount": [
+          "Solde disponible",
+          "Solde restant",
+          "Montant restant",
+          "Solde"
+        ],
+        "expiry": [
+          "Date expiration",
+          "Date d expiration",
+          "Utiliser avant"
+        ],
+        "cardNumber": [
+          "Numéro de carte",
+          "N° de carte"
+        ],
+        "pin": [
+          "Code PIN",
+          "PIN"
+        ]
+      }
+    },
+    "jardiland": {
+      "merchant": "Jardiland",
+      "aliases": [
+        "Jardiland",
+        "jardiland.com"
+      ],
+      "fields": {
+        "amount": [
+          "Solde disponible",
+          "Solde restant",
+          "Montant restant",
+          "Solde"
+        ],
+        "expiry": [
+          "Date expiration",
+          "Date d expiration",
+          "Utiliser avant"
+        ],
+        "cardNumber": [
+          "Numéro de carte",
+          "N° de carte"
+        ],
+        "pin": [
+          "Code PIN",
+          "PIN"
+        ]
+      }
+    }
   }
 }
