@@ -12,6 +12,6 @@ python3 tools/check_site.py
 node --check language.js
 ```
 
-`gift-card-rules.json` is the public, declarative gift-card import ruleset used by mPrint. Increment `rulesVersion` for every published change. It accepts merchant aliases and bounded regular-expression capture patterns for `amount`, `expiry`, `cardNumber`, and `pin`; it cannot execute code. Keep patterns conservative and test them against representative documents before publishing. mPrint caches the last valid version and keeps manual entry available if this file cannot be fetched.
+`gift-card-rules.json` is the public, declarative gift-card import ruleset used by mPrint. Increment `rulesVersion` for every published change. It supplies merchant display names and aliases. The app performs the common OCR/text interpretation locally (balance labels, expiry labels, card numbers and PINs); it does not execute remote code or send document contents to this site. Keep aliases grounded in real card documents. mPrint caches the last valid version and keeps manual entry available if this file cannot be fetched. Field-specific parsing behavior requires an app update; adding a new merchant name or alias does not.
 
 The How to use content and release notes match MPrint 1.0.2. Keep the website guide in sync with the app when behavior changes. The English legal clauses have been preserved, with corresponding French and Vietnamese translations.
